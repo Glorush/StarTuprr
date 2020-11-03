@@ -1,0 +1,23 @@
+====h1{
+fotn-size:  47px
+color:  #383838
+}
+
+====h2{
+font-size: 28px sm-24px
+color :  #383838
+}
+==================================background   #f9f9f9    #383838 	#00a99d
+====h3{
+font-size: 20 px
+color: 	#606060
+}
+
+====P{
+COLOR: 	#7a7a7a
+}
+
+====span{
+color:  #aaaaaa
+font-size: 14px
+}
